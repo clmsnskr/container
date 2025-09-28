@@ -23,6 +23,13 @@ Copy the binaries to `/usr/local/bin` and `/usr/local/libexec` (requires enterin
 make install
 ```
 
+
+
+
+
+
+
+
 Or to install a release build, with better performance than the debug build:
 
 ```bash
